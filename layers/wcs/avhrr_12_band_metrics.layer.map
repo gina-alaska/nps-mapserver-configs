@@ -1,0 +1,420 @@
+LAYER
+  NAME "1995_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/1995_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "1995 stacked ndvi metrics ver5"
+    wcs_label "1995 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "1996_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/1996_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "1996 stacked ndvi metrics ver5"
+    wcs_label "1996 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "1997_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/1997_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "1997 stacked ndvi metrics ver5"
+    wcs_label "1997 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "1998_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/1998_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "1998 stacked ndvi metrics ver5"
+    wcs_label "1998 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "1999_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/1999_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "1999 stacked ndvi metrics ver5"
+    wcs_label "1999 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2000_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2000_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2000 stacked ndvi metrics ver5"
+    wcs_label "2000 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2001_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2001_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2001 stacked ndvi metrics ver5"
+    wcs_label "2001 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2002_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2002_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2002 stacked ndvi metrics ver5"
+    wcs_label "2002 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2003_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2003_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2003 stacked ndvi metrics ver5"
+    wcs_label "2003 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2004_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2004_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2004 stacked ndvi metrics ver5"
+    wcs_label "2004 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2005_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2005_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2005 stacked ndvi metrics ver5"
+    wcs_label "2005 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2006_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2006_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2006 stacked ndvi metrics ver5"
+    wcs_label "2006 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2007_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2007_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2007 stacked ndvi metrics ver5"
+    wcs_label "2007 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2008_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2008_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2008 stacked ndvi metrics ver5"
+    wcs_label "2008 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2009_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2009_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2009 stacked ndvi metrics ver5"
+    wcs_label "2009 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2010_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2010_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2010 stacked ndvi metrics ver5"
+    wcs_label "2010 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2011_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2011_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2011 stacked ndvi metrics ver5"
+    wcs_label "2011 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2012_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2012_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2012 stacked ndvi metrics ver5"
+    wcs_label "2012 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2013_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2013_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2013 stacked ndvi metrics ver5"
+    wcs_label "2013 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2014_stacked_ndvi_metrics_ver5"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/avhrr/2014_stacked_ndvi_metrics_ver5.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2014 stacked ndvi metrics ver5"
+    wcs_label "2014 stacked ndvi metrics ver5"
+    ows_extent "-977500.0 430500.0 1534500.0 2422500.0"
+    wcs_resolution "1000.000000000000000 1000.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END

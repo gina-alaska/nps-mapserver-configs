@@ -1,0 +1,15 @@
+MAP
+   NAME ModisMetrics
+   include "includes/defaults/defaults.include.map"
+   WEB
+     METADATA
+       "wcs_label"                    "NDVI Modis Metrics, full 12 bands"  
+       "wcs_description"              "NDVI Modis Metrics, full 12 bands"  
+       "wcs_onlineresource"           "http://ndvi.gina.alaska.edu/metrics/emodis?"
+       "wcs_service_onlineresource"   "http://ndvi.gina.alaska.edu/metrics/emodis?"            
+       include "includes/defaults/default_web_metadata.include.map"
+     END
+  END
+  include "layers/wcs/modis_12_band_metrics.layer.map"
+END
+

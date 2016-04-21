@@ -1,0 +1,352 @@
+LAYER
+  NAME "2000_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2000_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2000 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2000 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2001_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2001_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2001 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2001 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2002_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2002_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2002 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2002 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2003_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2003_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2003 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2003 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2004_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2004_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2004 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2004 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2005_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2005_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2005 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2005 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2006_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2006_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2006 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2006 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2007_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2007_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2007 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2007 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2008_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2008_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2008 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2008 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2009_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2009_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2009 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2009 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2010_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2010_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2010 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2010 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2011_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2011_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2011 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2011 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2012_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2012_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2012 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2012 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2013_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2013_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2013 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2013 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2014_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2014_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2014 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2014 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+LAYER
+  NAME "2015_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2015_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  PROCESSING "BANDS=1,3,5,6,12"
+  METADATA
+    wms_label "2015 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2015 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFINT16"
+    wcs_nativeformat "geotifint16"
+    wcs_bandcount "5"
+    wcs_rangeset_axes "Bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END

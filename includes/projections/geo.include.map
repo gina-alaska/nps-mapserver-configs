@@ -1,0 +1,13 @@
+#PROJECTION
+	#"proj=longlat"
+	#"ellps=WGS84"
+	#"datum=WGS84"
+	#"no_defs"
+#END
+
+##
+# For wms getcap parsing..
+PROJECTION
+        "init=epsg:4326"
+END
+

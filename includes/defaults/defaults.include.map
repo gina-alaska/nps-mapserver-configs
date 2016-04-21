@@ -1,0 +1,17 @@
+# shared stuff between services
+    STATUS ON
+    SIZE 260 260
+
+    IMAGETYPE png24
+    IMAGECOLOR 0 0 0
+
+    MAXSIZE 13312
+
+# Debug is on - should not be default
+    DEBUG 5
+    SHAPEPATH "."
+    CONFIG "MS_ERRORFILE" "/dev/stderr"
+
+    include "includes/defaults/output_formats.wcs.include.map"
+
+    include "includes/projections/alaska_albers_nad83.include.map"

@@ -1,0 +1,15 @@
+MAP
+   NAME ModisMetrics
+   include "includes/defaults/defaults.include.map"
+   WEB
+     METADATA
+       "wcs_label"                    "NDVI AVHRR Metrics, 5 bands"  
+       "wcs_description"              "NDVI AVHRR Metrics, 5 bands"  
+       "wcs_onlineresource"           "http://ndvi.gina.alaska.edu/metrics/avhrr_5bands?"
+       "wcs_service_onlineresource"   "http://ndvi.gina.alaska.edu/metrics/avhrr_5bands?"            
+       include "includes/defaults/default_web_metadata.include.map"
+     END
+  END
+  include "layers/wcs/avhrr_5_band_metrics.layer.map"
+END
+

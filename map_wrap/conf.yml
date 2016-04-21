@@ -1,0 +1,27 @@
+defaults:
+  envsh: /opt/mapping_tools_builds/2015.11.12/setup.sh
+  mapserv: /opt/mapping_tools_builds/2015.11.12/bin/mapserv
+  timeout: 3600
+  maps:
+    unused: no_such_map
+configs:
+  "/emodis":
+    prefix: "emodis"
+    url: "emodis"
+    projections:
+      default: "modis_metrics.map"
+  "/emodis_5bands":
+    prefix: "emodis_5bands"
+    url: "emodis_5bands"
+    projections:
+      default: "modis_metrics_5bands.map"
+  "/avhrr":
+    prefix: "avhrr"
+    url: "avhrr"
+    projections:
+      default: "avhrr_metrics.map"
+  "/avhrr_5bands":
+    prefix: "avhrr_5bands"
+    url: "avhrr_5bands"
+    projections:
+      default: "avhrr_metrics_5bands.map"
