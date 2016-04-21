@@ -2,6 +2,7 @@
 mapserver configs for NPS OGC stuff, mainly WCS and WMS. 
 
 # notes on how it is supposed to be structured:
+Email from jiang and NPS staff, in how to structure and format the metrics data:
 
   NPS approved your idea of changing float values into integer values for metrics in order to improve the loading speed for WCS server to client. So please do following things for me.
   1. change 12-band of float value snow metrics into 12-band integer snow metrics ( 2001 to 2014).
