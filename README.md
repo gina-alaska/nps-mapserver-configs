@@ -11,8 +11,11 @@ mapserver configs for NPS OGC stuff, mainly WCS and WMS.
 >4. please create a 5-band AVHRR NDVI metrics WCS server directory. the 5 bands are:1,3,5,6,12.
 >(1995 to 2013)
 
+The 5 bands should be unsigned integers, repersenting days
+The 13 band version are 32 bit floating point. 
+
 # Urls in use:
->http://ndvi.gina.alaska.edu/metrics/avhrr
->http://ndvi.gina.alaska.edu/metrics/avhrr_5bands
->http://ndvi.gina.alaska.edu/metrics/emodis
->http://ndvi.gina.alaska.edu/metrics/emodis_5bands
+* http://ndvi.gina.alaska.edu/metrics/avhrr
+* http://ndvi.gina.alaska.edu/metrics/avhrr_5bands
+* http://ndvi.gina.alaska.edu/metrics/emodis
+* http://ndvi.gina.alaska.edu/metrics/emodis_5bands
