@@ -15,7 +15,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -37,7 +37,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -59,7 +59,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -81,7 +81,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -103,7 +103,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -125,7 +125,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -147,7 +147,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -169,7 +169,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -191,7 +191,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -213,7 +213,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -235,7 +235,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -257,7 +257,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -279,7 +279,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -301,7 +301,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -323,7 +323,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -345,7 +345,7 @@ LAYER
     wcs_formats "GEOTIFFINT16"
     wcs_nativeformat "geotifint16"
     wcs_bandcount "5"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END

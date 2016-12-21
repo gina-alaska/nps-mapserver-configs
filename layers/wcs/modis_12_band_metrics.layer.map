@@ -14,7 +14,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -35,7 +35,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -56,7 +56,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -77,7 +77,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -98,7 +98,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -119,7 +119,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -140,7 +140,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -161,7 +161,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -182,7 +182,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -203,7 +203,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -224,7 +224,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -245,7 +245,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -266,7 +266,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -287,7 +287,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -308,7 +308,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
@@ -329,7 +329,7 @@ LAYER
     wcs_formats "GEOTIFFFLOAT32"
     wcs_nativeformat "geotifffloat"
     wcs_bandcount "12"
-    wcs_rangeset_axes "Bands"
+    wcs_rangeset_axes "bands"
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
