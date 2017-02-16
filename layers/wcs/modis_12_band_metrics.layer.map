@@ -334,3 +334,25 @@ LAYER
     wcs_rangeset_name "Bands"
   END
 END
+LAYER
+  NAME "2016_oneyear_layer_subset_good_metrics_ver16m1_3"
+  STATUS OFF
+  TYPE RASTER
+  DUMP TRUE
+  DATA "/ogc/data/metrics/emodis/2016_oneyear_layer_subset_good_metrics_ver16m1_3.tif"
+  include "includes/projections/3338.include.map"
+  METADATA
+    wms_label "2016 oneyear layer subset good metrics ver16m1 3"
+    wcs_label "2016 oneyear layer subset good metrics ver16m1 3"
+    ows_extent "-767943.4375 567778.5 1748806.5625 2571278.5"
+    wcs_resolution "250.000000000000000 250.000000000000000"
+    ows_srs "EPSG:3338"
+    wcs_formats "GEOTIFFFLOAT32"
+    wcs_nativeformat "geotifffloat"
+    wcs_bandcount "12"
+    wcs_rangeset_axes "bands"
+    wcs_rangeset_label "Metrics Bands"
+    wcs_rangeset_name "Bands"
+  END
+END
+
