@@ -349,7 +349,8 @@ LAYER
     wcs_rangeset_label "Metrics Bands"
     wcs_rangeset_name "Bands"
   END
-ENDYER
+END
+LAYER
   NAME "2016_oneyear_layer_subset_good_metrics_ver16m1_3"
   STATUS OFF
   TYPE RASTER
